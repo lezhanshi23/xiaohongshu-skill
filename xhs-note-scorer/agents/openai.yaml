@@ -1,0 +1,7 @@
+interface:
+  display_name: "小红书笔记评分器"
+  short_description: "按个人小红书数据评分并复盘爆款路径、标题、封面和获得感"
+  default_prompt: "Use $xhs-note-scorer to score or postmortem my Xiaohongshu note draft with exposure and risk signals."
+
+policy:
+  allow_implicit_invocation: true
